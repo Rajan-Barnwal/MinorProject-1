@@ -1,2 +1,2 @@
-# MinorProject-1
-A student's portal
+# Student's Corner
+First  landing page of my minor project using HTML and CSS.
